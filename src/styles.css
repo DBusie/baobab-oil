@@ -1,0 +1,18 @@
+:root {
+  bg-col-1: #bbb217;
+  bg-col-2: #c0c2c7;
+  main-col-1: #b3ad71;
+  main-col-2: #553513;
+  main-col-3: #837324;
+  main-col-4: #ae481c;
+  main-col-5: #fbf3e4;
+  main-col-6: #c7aa6b;
+  main-col-7: #ebe5d6;
+  main-col-8: #dad3ca;
+  main-col-9: #696969;
+  main-col-10: #d8ac8c;
+  main-col-11: #635549;
+}
+.container {
+  background: var(bg-col-1);
+}
