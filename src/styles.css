@@ -20,53 +20,13 @@
 h1 {
   text-align: center;
   font-size: 96px;
-  color: var(main-col-4);
-}
-.homepage {
-  background: var(main-col-6);
-  color: var(main-col-12);
-  border: 1px solid var(main-col-12);
-  padding: 5px;
-  margin: 7px;
+  color: red;
 }
 
 p {
   padding: 15px;
   margin: 30px;
-}
-#homepage {
-  font-size: 18px;
-  background: var(main-col-8);
-}
-
-.about {
-  background: var(main-col-4);
-  color: var(main-col-6);
-  border: 1px solid var(main-col-4);
-  padding: 5px;
-  margin: 7px;
-}
-
-#about {
-  font-size: 22px;
-  background: var(main-col-3);
-}
-.contact {
-  background: var(main-col-2);
-  color: var(main-col-10);
-  border: 1px solid var(main-col-2);
-  padding: 5px;
-  margin: 7px;
-}
-#contact {
-  font-size: 24px;
-  background: var(main-col-11);
-  color: var(main-col-5);
-}
-.picture {
-  background: var(main-col-5);
-  color: var(main-col-11);
-  border: 1px solid var(main-col-11);
-  padding: 5px;
-  margin: 7px;
+  color: red;
+  background: #c0c2c7;
+  border: 2px solid var(--main-col-2);
 }
