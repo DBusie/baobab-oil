@@ -13,20 +13,21 @@
   main-col-10: #d8ac8c;
   main-col-11: #635549;
 }
-.container {
-  text-align: center;
-  line-height: 1.5;
+body {
+  background: linear-gradient(to right, #fbf3e4, #bbb217);
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
 }
 h1 {
   text-align: center;
   font-size: 96px;
-  color: red;
+  color: #696969;
+  margin-bottom: 20px;
 }
 
 p {
   padding: 15px;
-  margin: 30px;
-  color: red;
-  background: #c0c2c7;
-  border: 2px solid var(--main-col-2);
+  margin: 20px;
+  color: #ae481c;
 }
