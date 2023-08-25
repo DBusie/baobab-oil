@@ -15,7 +15,6 @@
 }
 body {
   background: linear-gradient(to right, #fbf3e4, #bbb217);
-
   display: flex;
   justify-content: center;
 }
@@ -27,8 +26,19 @@ h1 {
   margin-top: 140px;
 }
 
+p,
+h4,
+li {
+  color: #ae481c;
+}
 p {
   padding: 15px;
   margin: 20px;
-  color: #ae481c;
+}
+ul {
+  max-width: 50%;
+  margin: 30px auto;
+}
+li {
+  text-align: center;
 }
