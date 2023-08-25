@@ -15,7 +15,7 @@
 }
 body {
   background: linear-gradient(to right, #fbf3e4, #bbb217);
-  max-width: 1000px;
+
   display: flex;
   justify-content: center;
 }
